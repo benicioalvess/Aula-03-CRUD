@@ -1,5 +1,14 @@
 [
-  { "id": 1, "name": "Pc gaymer", "price": 7000 },
-  { "id": 2, "name": "Mouse LOGITECH", "price": 800 },
-  { "id": 3, "name": "Teclado KURAMA", "price": 150 }
+  {
+    "id": 3,"nome": "benicio","email": "benicio@email.com"
+  },
+  {
+    "id": 4,"nome": "pacitokun","email": "pacitokun@email.com"
+  },
+  {
+    "id": 5,"nome": "ubidasan","email": "ubidasan@email.com"
+  },
+  {
+    "id": 6,"nome": "capa","email": "capa@gmail.com"
+  }
 ]
